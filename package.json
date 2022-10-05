@@ -10,7 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "rambda": "*",
-    "typescript": "x"
+    "typescript": "4.8.4"
   },
   "dependencies": {
     "got": "^11.8.3",
