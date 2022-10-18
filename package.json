@@ -9,12 +9,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "rambda": "*",
-    "typescript": "x"
+    "rambda": "7.2.1",
+    "typescript": "3.9.10"
   },
   "dependencies": {
-    "got": "^11.8.3",
+    "got": "11.8.3",
     "nbb": "0.7.135",
-    "npm": "*"
+    "npm": "8.19.2"
   }
 }
